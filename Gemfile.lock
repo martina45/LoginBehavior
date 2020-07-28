@@ -32,7 +32,7 @@ GEM
     escape (0.0.4)
     gherkin (5.1.0)
     httpclient (2.8.3)
-    json (2.2.0)
+    json (2.3.1)
     multi_json (1.13.1)
     multi_test (0.1.2)
     rubyzip (1.2.4)
